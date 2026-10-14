@@ -136,12 +136,4 @@ ask_me_about: [ant colonies, bee colonies, Bayesian inference, LÖVE2D]
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablof27/Pablof27/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablof27/Pablof27/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Pablof27/Pablof27/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=wave&section=footer&height=120&color=0:FF8F00,100:7B1FA2" width="100%" alt="" />
