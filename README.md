@@ -123,17 +123,4 @@ ask_me_about: [ant colonies, bee colonies, Bayesian inference, LÖVE2D]
   </tr>
 </table>
 
-## 📈 GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pablof27&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&bg_color=0D1117&title_color=FFA726&icon_color=FFA726&text_color=C9D1D9&border_color=30363D" />
-    <img height="145" src="https://github-readme-stats.vercel.app/api?username=Pablof27&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&bg_color=FFFFFF&title_color=EF6C00&icon_color=EF6C00&text_color=24292F&border_color=D0D7DE" alt="Pablo's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablof27&layout=compact&exclude_repo=everdell&hide=jupyter%20notebook%2Ccss%2Chtml&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=FFA726&text_color=C9D1D9&border_color=30363D" />
-    <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablof27&layout=compact&exclude_repo=everdell&hide=jupyter%20notebook%2Ccss%2Chtml&size_weight=0.5&count_weight=0.5&bg_color=FFFFFF&title_color=EF6C00&text_color=24292F&border_color=D0D7DE" alt="Most used languages" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=wave&section=footer&height=120&color=0:FF8F00,100:7B1FA2" width="100%" alt="" />
