@@ -34,8 +34,8 @@ interests:
   - probabilistic machine learning
   - game AI & game development
 currently_working_on:
-  - artificial bee colony optimizers for project scheduling
-  - Everdell bots trained with genetic algorithms & CMA-ES
+  - Everdell bots trained with genetic algorithms, CMA-ES & ANN
+  - The Fight Bug: a tactical game of catching bugs and playing with other kids
 builds_for_fun: [roguelike card games, board game bots, memory games]
 ask_me_about: [ant colonies, bee colonies, Bayesian inference, LÖVE2D]
 ```
